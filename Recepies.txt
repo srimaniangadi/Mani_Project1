@@ -10,8 +10,8 @@ Recepies List:-
 
 
 Breads:-
-1. Bullet Nann
-2. Garlic Nann
+//1. Bullet Nann
+
 3. Naan
 4. Bread and Jam
 5. Super zimmac Nann
